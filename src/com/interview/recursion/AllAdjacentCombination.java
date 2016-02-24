@@ -6,7 +6,7 @@ package com.interview.recursion;
  * 1 2 3 4
  * 12 3 4
  * 1 23 4
- * 1 2 3 34
+ * 1 2 34
  * 12 34
  * @author tusroy
  *
